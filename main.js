@@ -25,3 +25,4 @@ var addStudent = function(){
 var newBus = new bus('john', 'red', 7);
 addStudent();
 
+
